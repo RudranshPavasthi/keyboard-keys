@@ -59,26 +59,26 @@ function my_keydown(e)
 
 function aplhabetkey()
 {
-		img_image="Alphabet Key.jpg";
+		img_image="Alpkey.png";
 	add();
 }
 function numberkey()
 {
-	img_image="Number Key.jpg";
+	img_image="numkey.png";
 	add();
 }
 function arrowkey()
 {
-	img_image="Arrow Key.jpg";
+	img_image="Arrkey.png";
 	add();
 }
 function specialkey()
 {
-	img_image="Special keys.jpg";
+	img_image="spkey.png";
 	add();
 }
 function otherkey()
 {
-	img_image="Other keys.jpg";
+	img_image="otherkey.png";
 	add();
 }
